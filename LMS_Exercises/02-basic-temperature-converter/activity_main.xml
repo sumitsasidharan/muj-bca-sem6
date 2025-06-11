@@ -1,0 +1,37 @@
+<EditText
+android:id="@+id/etCelsius"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:hint="Enter Celsius"
+android:inputType="numberDecimal" />
+
+<EditText
+android:id="@+id/etFahrenheit"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:hint="Enter Fahrenheit"
+android:inputType="numberDecimal" />
+
+<Button
+android:id="@+id/btnToFahrenheit"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Convert to Fahrenheit" />
+
+<Button
+android:id="@+id/btnToCelsius"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Convert to Celsius" />
+
+<TextView
+android:id="@+id/tvResultFahrenheit"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textSize="18sp" />
+<TextView
+android:id="@+id/tvResultCelsius"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textSize="18sp" />
+
