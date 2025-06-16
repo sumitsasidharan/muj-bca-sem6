@@ -1,4 +1,4 @@
-package com.example.bmicalculator; // Ensure this matches your package name
+package com.example.bmicalculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;

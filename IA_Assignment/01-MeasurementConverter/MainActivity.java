@@ -1,4 +1,4 @@
-package com.example.measurementconverter; // Replace with your package name
+package com.example.measurementconverter;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
